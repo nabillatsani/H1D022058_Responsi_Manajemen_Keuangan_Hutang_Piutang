@@ -17,5 +17,7 @@ Kostumisasi Tampilan UI: Tema Kuning Orange font Comis Sans
 ![Screenshot 2024-10-18 114518](https://github.com/user-attachments/assets/7f7cb228-5343-44d8-8077-ba2e485db2b2)
 ![Screenshot 2024-10-18 114536](https://github.com/user-attachments/assets/2eb5a84c-7137-42a2-b684-557130df2ddc)
 ![Screenshot 2024-10-18 114620](https://github.com/user-attachments/assets/63bbaf99-2be5-4322-ad07-e324a8a9bb6f)
-![Screenshot 2024-10-18 143300](https://github.com/user-attachments/assets/48d9b6de-afe4-4a78-baf1-d287342ab648)
 ![Screenshot 2024-10-18 143700](https://github.com/user-attachments/assets/0838ca5b-1019-4659-b1e7-6bcf6e10796e)
+![image](https://github.com/user-attachments/assets/1f60aa51-d21a-47a9-9d58-dc20c624c97e)
+![Screenshot 2024-10-18 143300](https://github.com/user-attachments/assets/48d9b6de-afe4-4a78-baf1-d287342ab648)
+![image](https://github.com/user-attachments/assets/50bfda98-6ded-4264-b875-a85908c8f912)
